@@ -23,6 +23,17 @@ function Projects() {
         accent: "cyan",
       },
       {
+        title: "Craveo",
+        description:
+          "A premium café brand website designed with a modern editorial aesthetic, immersive visuals, responsive layouts and subtle interactive experiences.",
+        image: "/projects/craveo.png",
+        tech: ["React", "Vite", "Tailwind CSS", "JavaScript"],
+        live: "https://craveo-olive.vercel.app/",
+        github: "https://github.com/Merinjohnv/craveo",
+        number: "03",
+        accent: "cyan",
+      },
+      {
         title: "To-Do List",
         description:
           "A modern task management application with a responsive dark interface and local storage support for persistent tasks.",
@@ -30,7 +41,7 @@ function Projects() {
         tech: ["React", "Tailwind CSS", "LocalStorage"],
         live: "https://merin-todolistapp.vercel.app/",
         github: "https://github.com/Merinjohnv",
-        number: "03",
+        number: "04",
         accent: "purple",
       },
       {
@@ -41,7 +52,7 @@ function Projects() {
         tech: ["React", "OMDb API", "CSS", "JavaScript"],
         live: "https://merinjohnv.github.io/movie-search-react/",
         github: "https://github.com/Merinjohnv",
-        number: "04",
+        number: "05",
         accent: "pink",
       },
     ];
